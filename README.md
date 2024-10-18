@@ -5,7 +5,7 @@ This repository contains the code of ZoRL, an adaptive discretization-based rein
 3. TSDE, applied on uniformly discretized MDP.
 4. RVI-Q, Q-learning on uniformly discretized MDP.
 
-* Here is a list of python libraries that are needed to run the code.
+Here is a list of python libraries that are needed to run the code.
 1. Python                             3.9.18
 2. matplotlib                         3.8.0
 3. numpy                              1.24.3
