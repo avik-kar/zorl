@@ -14,4 +14,4 @@ Here is a list of python libraries that are needed to run the code.
 5. seaborn                            0.12.2
 6. torch                              1.11.0
 
-Link to the paper: \url{https://arxiv.org/abs/2410.19919}
+Link to the paper: https://arxiv.org/abs/2410.19919
